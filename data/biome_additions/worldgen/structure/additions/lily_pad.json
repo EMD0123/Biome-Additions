@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#biome_additions:has_addition/lily_pad",
+  "step": "vegetal_decoration",
+  "spawn_overrides": {},
+  "start_pool": "biome_additions:lily_pad",
+  "size": 6,
+  "start_height": {
+    "below_top": 0
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "tries": 8,
+    "xz_spread": 4,
+    "y_spread": 0,
+    "feature": {
+      "feature": "biome_additions:lake_section",
+      "placement": [
+        {
+          "type": "minecraft:heightmap",
+          "heightmap": "OCEAN_FLOOR"
+        }
+      ]
+    }
+  }
+}

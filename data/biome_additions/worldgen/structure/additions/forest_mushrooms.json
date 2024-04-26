@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#biome_additions:has_addition/forest_mushrooms",
+  "step": "top_layer_modification",
+  "spawn_overrides": {},
+  "start_pool": "biome_additions:forest_mushrooms",
+  "size": 6,
+  "start_height": {
+    "below_top": 0
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}
